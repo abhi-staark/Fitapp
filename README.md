@@ -4,6 +4,7 @@
 A feature-rich fitness application built with Flutter, following best practices for code organization, readability, and reusability. It empowers users to track their workouts, play motivating music, and celebrate achievements with confetti animations.
 
 **Features:**
+![Frame 85 (2)](https://github.com/abhi-staark/Fitapp/assets/88762793/1fe8484b-4716-41d3-a317-dfc48e8817bf)
 
 Timer: Track the duration of your workouts with a customizable timer.
 
